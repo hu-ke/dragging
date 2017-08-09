@@ -10,9 +10,13 @@ let ele = document.getElementById('ele')
 dragging(ele, {
   cursor: 'pointer', // the cursor effect while mouse hovering on the target element.
   
-  margin: 10, // 1.for absolutely positioned element, the margin specifies the minimum spaces(in pixels) kept to the border of the element's containing block. (The containing block is the ancestor to which the element is relatively positioned.)
-              // 2.for fixedly positioned element, the margin specifies the minimum spaces(in pixels) kept to the border of the current viewport.
-              // 3.for relatively positioned element, margin will be ignored.
+  // 1.for absolutely positioned element, the margin specifies the minimum spaces(in pixels) kept 
+      to the border of the element's containing block. 
+    (The containing block is the ancestor to which the element is relatively positioned.)
+  // 2.for fixedly positioned element, the margin specifies the minimum spaces(in pixels) kept 
+      to the border of the current viewport.
+  // 3.for relatively positioned element, margin will be ignored.
+  margin: 10,
 
   onStart: (e) => { console.log('onstart..', e) }, // triggered on drag start.
   onDragging: (e) => { console.log('ondragging..', e) }, // triggered on dragging
