@@ -1,5 +1,5 @@
 # dragging
-> Dragging is a simple javascript library for moving elements. Note that this lib works only if the target element's position set to be 'relative', 'absolute', or 'fixed'.
+> Dragging.js is a simple javascript library for moving elements. Note that this lib works only if the target element's position set to be 'relative', 'absolute', or 'fixed'.
 ## Quick Start
 ```
 import dragging from './dragging.js'
@@ -20,11 +20,16 @@ dragging(ele, {
 })
 ```
 ## Examples
-### 1.position: absolute
+### 1.position: absolute;
 ![](http://images.kenote.me/absolute-dragging.gif)
-### 2.position: fixed
+### 2.position: fixed;
 ![](http://images.kenote.me/fixed-dragging.gif)
-### 3.position: relative
+### 3.position: relative;
 ![](http://images.kenote.me/relative-dragging.gif)
+## Install
+You can get it on npm.
+```
+npm install dragging --save
+```
 ## Contributing
 dragstart.js is a free and open source library, and I appreciate any help you're willing to give - whether it's fixing bugs, improving documentation, or suggesting new features.
