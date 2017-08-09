@@ -1,0 +1,17 @@
+{
+  "name": "dragging",
+  "version": "1.0.0",
+  "description": "a package for moving dom elements.",
+  "main": "dragging.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "drag",
+    "move",
+    "dom",
+    "element"
+  ],
+  "author": "huke",
+  "license": "ISC"
+}
