@@ -36,4 +36,4 @@ You can get it on npm.
 npm install dragging --save
 ```
 ## Contributing
-dragstart.js is a free and open source library, and I appreciate any help you're willing to give - whether it's fixing bugs, improving documentation, or suggesting new features.
+dragging.js is a free and open source library, and I appreciate any help you're willing to give - whether it's fixing bugs, improving documentation, or suggesting new features.
