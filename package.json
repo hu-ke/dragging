@@ -1,6 +1,6 @@
 {
   "name": "dragging",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "a package for moving dom elements.",
   "main": "dragging.js",
   "scripts": {
