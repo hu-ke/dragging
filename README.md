@@ -1,5 +1,5 @@
 # dragging
-> Dragging.js is a simple javascript library for moving elements. Note that this lib works only if the target element's position set to be 'relative', 'absolute', or 'fixed'.
+> Dragging.js is a simple javascript library for dragging elements. Note that this lib works only if the target element's position set to be 'relative', 'absolute', or 'fixed'.
 ## Quick Start
 ```
 import dragging from './dragging.js'
