@@ -6,7 +6,7 @@
  * @desc [description]
 */
 let dragHelper = null
-
+console.log('111')
 class DragHelper {
   constructor(el, options) {
     this.cursor = 'default'
