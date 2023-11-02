@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T04:18:16.575Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="e5ASFKttlqssE-Me321e" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T07:54:04.614Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="jSyggT3sv0W0oZ749Egi" version="22.0.8" type="github">
   <diagram name="Page-1" id="16XnlyzRVhk2_nAnZEXL">
     <mxGraphModel dx="1995" dy="2258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -254,6 +254,15 @@
         </mxCell>
         <mxCell id="bIWhFlS1S5HIzhOB2Hnq-25" value="setAllMergedProducts" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-590" y="-1172" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bIWhFlS1S5HIzhOB2Hnq-26" value="点击merge orders" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="-1350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bIWhFlS1S5HIzhOB2Hnq-29" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-720" y="-1280" as="sourcePoint" />
+            <mxPoint x="-570" y="-1100" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
